@@ -9,7 +9,7 @@ import numpy as np
 import pickle
 import streamlit as st 
 
-loaded_model = pickle.load(open('D:/Git-Hub projects/Insurance-Price-Prediction/trained_model.pkl','rb'))
+loaded_model = pickle.load(open('trained_model.pkl','rb'))
 
 def insurance_price_prediction(input_data):
   #changing input data to numpy array
