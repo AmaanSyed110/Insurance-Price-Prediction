@@ -1,4 +1,3 @@
-# Insurance Price Prediction
-## Description
-The primary goal of this project is to construct a robust Linear Regression model that can accurately predict insurance expenses based on a set of influential factors. This predictive model will serve as a valuable tool for gaining insights into the cost drivers of insurance and enabling reliable cost projections across various scenarios.
-
+1. Download the dataset and upload it in drive so that you don't need to upload it again after every runtime.
+2. Handle the missing values carefully.
+3. Make sure to restart and run the whole notebook from start if you commit any changes in the middle of the notebook. 
